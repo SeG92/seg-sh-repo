@@ -1,4 +1,4 @@
 seg-sh-repo
 ===========
 
-ShellScript repository
+Linux ShellScript repository
